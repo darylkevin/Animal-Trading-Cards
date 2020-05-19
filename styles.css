@@ -1,0 +1,44 @@
+/* add your CSS here */
+.container{
+  width: 305px;
+  height: 510px;
+  border: 2px solid black;
+  border-radius: 10px;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  padding: 15px;
+  background-color: #33C1FF;
+  margin: auto;
+}
+
+h3{
+  border: solid gray;
+  padding: 5px;
+  border-radius: 15px;
+}
+
+img{
+  border: solid black;
+  border-radius: 15px;
+}
+
+.font{
+  font-size: 10px;
+  text-align: justify;
+}
+
+.fact{
+  font-style: italic;
+}
+
+ul{
+  font-weight: bold;
+  list-style-type: none;
+  padding: 0;
+}
+
+.border{
+  border: 2px solid gainsboro;
+  padding: 3px;
+  border-radius: 15px;
+}
