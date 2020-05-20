@@ -15,6 +15,11 @@ h3{
   border: solid gray;
   padding: 5px;
   border-radius: 15px;
+  margin: 0;
+  transform: rotate(-45deg);
+  transition: transform 0.5s;
+  text-shadow: 0 0 5px #01579b;
+}
 }
 
 img{
